@@ -1,4 +1,7 @@
 # Dados Públicos do CNPJ da Receita Federal
+
+Repositório principal: [https://github.com/cnpjbrazil/CNPJ/](https://github.com/cnpjbrazil/CNPJ/)
+
 **Versão: NOVEMBRO/2024**
 ---
 | Região         | Tamanho   |
